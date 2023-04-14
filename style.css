@@ -28,6 +28,9 @@ body {
     align-items: center;
     background: var(--Almost-White);
 }
+.nav {
+    display: flex;
+}
 
 .logo {
     padding-left: 30px;
@@ -44,6 +47,7 @@ body {
     text-decoration: none;
     padding: 15px 15px;
     font-family: inherit;
+    letter-spacing: 2px;
 }
 
 .button {
